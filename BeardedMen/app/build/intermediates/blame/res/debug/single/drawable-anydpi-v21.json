@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_library_black.xml",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_library_black.xml"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_man_black.xml",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_man_black.xml"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_business_black.xml",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_business_black.xml"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/barbarajael/.android/build-cache/285274efa05813422a83ec3c941640b2a2f4313f/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/barbarajael/.android/build-cache/285274efa05813422a83ec3c941640b2a2f4313f/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_contact_black.xml",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_contact_black.xml"
+    }
+]

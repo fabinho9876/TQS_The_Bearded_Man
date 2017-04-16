@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20132adf7fc155fd324349e31147fe3b72c7475b">
+        <dex dex="/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c88f11065c65d0a1670fa5f2af6f7287a770d1f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25032a09b98d7c320a187badf4525bb092b37a81/classes.dex" />
+    </item>
+
+</items>

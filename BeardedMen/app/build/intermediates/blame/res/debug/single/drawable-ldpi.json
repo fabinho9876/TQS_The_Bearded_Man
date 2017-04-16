@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_business_black.png",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-ldpi/ic_business_black.png"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_library_black.png",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-ldpi/ic_library_black.png"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_contact_black.png",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-ldpi/ic_contact_black.png"
+    },
+    {
+        "merged": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_man_black.png",
+        "source": "/Users/barbarajael/AndroidStudioProjects/BeardedMen/app/build/generated/res/pngs/debug/drawable-ldpi/ic_man_black.png"
+    }
+]
